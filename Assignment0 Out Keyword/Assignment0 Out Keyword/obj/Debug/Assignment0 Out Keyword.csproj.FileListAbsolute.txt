@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Assignment0 Out Keyword\Assignment0 Out Keyword\bin\Debug\Assignment0 Out Keyword.exe.config
+C:\Users\user\source\repos\Assignment0 Out Keyword\Assignment0 Out Keyword\bin\Debug\Assignment0 Out Keyword.exe
+C:\Users\user\source\repos\Assignment0 Out Keyword\Assignment0 Out Keyword\bin\Debug\Assignment0 Out Keyword.pdb
+C:\Users\user\source\repos\Assignment0 Out Keyword\Assignment0 Out Keyword\obj\Debug\Assignment0 Out Keyword.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Assignment0 Out Keyword\Assignment0 Out Keyword\obj\Debug\Assignment0 Out Keyword.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Assignment0 Out Keyword\Assignment0 Out Keyword\obj\Debug\Assignment0 Out Keyword.exe
+C:\Users\user\source\repos\Assignment0 Out Keyword\Assignment0 Out Keyword\obj\Debug\Assignment0 Out Keyword.pdb
