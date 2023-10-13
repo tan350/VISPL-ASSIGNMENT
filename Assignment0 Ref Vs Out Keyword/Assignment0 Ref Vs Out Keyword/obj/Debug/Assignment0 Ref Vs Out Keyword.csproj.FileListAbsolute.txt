@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\Assignment0 Ref Vs Out Keyword\Assignment0 Ref Vs Out Keyword\bin\Debug\Assignment0 Ref Vs Out Keyword.exe.config
+C:\Users\user\source\repos\Assignment0 Ref Vs Out Keyword\Assignment0 Ref Vs Out Keyword\bin\Debug\Assignment0 Ref Vs Out Keyword.exe
+C:\Users\user\source\repos\Assignment0 Ref Vs Out Keyword\Assignment0 Ref Vs Out Keyword\bin\Debug\Assignment0 Ref Vs Out Keyword.pdb
+C:\Users\user\source\repos\Assignment0 Ref Vs Out Keyword\Assignment0 Ref Vs Out Keyword\obj\Debug\Assignment0 Ref Vs Out Keyword.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Assignment0 Ref Vs Out Keyword\Assignment0 Ref Vs Out Keyword\obj\Debug\Assignment0 Ref Vs Out Keyword.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Assignment0 Ref Vs Out Keyword\Assignment0 Ref Vs Out Keyword\obj\Debug\Assignment0 Ref Vs Out Keyword.exe
+C:\Users\user\source\repos\Assignment0 Ref Vs Out Keyword\Assignment0 Ref Vs Out Keyword\obj\Debug\Assignment0 Ref Vs Out Keyword.pdb
