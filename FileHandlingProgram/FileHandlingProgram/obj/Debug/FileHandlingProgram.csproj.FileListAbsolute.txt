@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\FileHandlingProgram\FileHandlingProgram\bin\Debug\FileHandlingProgram.exe.config
+C:\Users\user\source\repos\FileHandlingProgram\FileHandlingProgram\bin\Debug\FileHandlingProgram.exe
+C:\Users\user\source\repos\FileHandlingProgram\FileHandlingProgram\bin\Debug\FileHandlingProgram.pdb
+C:\Users\user\source\repos\FileHandlingProgram\FileHandlingProgram\obj\Debug\FileHandlingProgram.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FileHandlingProgram\FileHandlingProgram\obj\Debug\FileHandlingProgram.FileHandlingProgramForm.resources
+C:\Users\user\source\repos\FileHandlingProgram\FileHandlingProgram\obj\Debug\FileHandlingProgram.Properties.Resources.resources
+C:\Users\user\source\repos\FileHandlingProgram\FileHandlingProgram\obj\Debug\FileHandlingProgram.RowDataForm.resources
+C:\Users\user\source\repos\FileHandlingProgram\FileHandlingProgram\obj\Debug\FileHandlingProgram.csproj.GenerateResource.cache
+C:\Users\user\source\repos\FileHandlingProgram\FileHandlingProgram\obj\Debug\FileHandlingProgram.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FileHandlingProgram\FileHandlingProgram\obj\Debug\FileHandlingProgram.exe
+C:\Users\user\source\repos\FileHandlingProgram\FileHandlingProgram\obj\Debug\FileHandlingProgram.pdb
