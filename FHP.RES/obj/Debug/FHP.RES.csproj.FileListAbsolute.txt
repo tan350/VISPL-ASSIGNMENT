@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\FHPLayered\FHP.RES\bin\Debug\FHP.RES.dll
+C:\Users\user\source\repos\FHPLayered\FHP.RES\bin\Debug\FHP.RES.pdb
+C:\Users\user\source\repos\FHPLayered\FHP.RES\obj\Debug\FHP.RES.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FHPLayered\FHP.RES\obj\Debug\FHP.RES.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FHPLayered\FHP.RES\obj\Debug\FHP.RES.dll
+C:\Users\user\source\repos\FHPLayered\FHP.RES\obj\Debug\FHP.RES.pdb

@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\FHPLayered\FHP.DL\bin\Debug\FHP.DL.dll
+C:\Users\user\source\repos\FHPLayered\FHP.DL\bin\Debug\FHP.DL.pdb
+C:\Users\user\source\repos\FHPLayered\FHP.DL\bin\Debug\FHP.RES.dll
+C:\Users\user\source\repos\FHPLayered\FHP.DL\bin\Debug\FHP.VO.dll
+C:\Users\user\source\repos\FHPLayered\FHP.DL\bin\Debug\FHP.RES.pdb
+C:\Users\user\source\repos\FHPLayered\FHP.DL\bin\Debug\FHP.VO.pdb
+C:\Users\user\source\repos\FHPLayered\FHP.DL\obj\Debug\FHP.DL.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FHPLayered\FHP.DL\obj\Debug\FHP.DL.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FHPLayered\FHP.DL\obj\Debug\FHP.DL.csproj.CopyComplete
+C:\Users\user\source\repos\FHPLayered\FHP.DL\obj\Debug\FHP.DL.dll
+C:\Users\user\source\repos\FHPLayered\FHP.DL\obj\Debug\FHP.DL.pdb
