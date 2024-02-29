@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\FHPBinary\FHPBinary\obj\Debug\FHPBinary.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FHPBinary\FHPBinary\obj\Debug\FHP.Form1.resources
+C:\Users\user\source\repos\FHPBinary\FHPBinary\obj\Debug\FHPBinary.Properties.Resources.resources
+C:\Users\user\source\repos\FHPBinary\FHPBinary\obj\Debug\FHP.UpdateDataForm.resources
+C:\Users\user\source\repos\FHPBinary\FHPBinary\obj\Debug\FHP.ViewDataForm.resources
+C:\Users\user\source\repos\FHPBinary\FHPBinary\obj\Debug\FHPBinary.csproj.GenerateResource.cache
+C:\Users\user\source\repos\FHPBinary\FHPBinary\obj\Debug\FHPBinary.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FHPBinary\FHPBinary\bin\Debug\FHPBinary.exe.config
+C:\Users\user\source\repos\FHPBinary\FHPBinary\bin\Debug\FHPBinary.exe
+C:\Users\user\source\repos\FHPBinary\FHPBinary\bin\Debug\FHPBinary.pdb
+C:\Users\user\source\repos\FHPBinary\FHPBinary\obj\Debug\FHPBinary.exe
+C:\Users\user\source\repos\FHPBinary\FHPBinary\obj\Debug\FHPBinary.pdb

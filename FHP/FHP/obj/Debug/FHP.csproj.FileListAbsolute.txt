@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\FHP\FHP\bin\Debug\FHP.exe.config
+C:\Users\user\source\repos\FHP\FHP\bin\Debug\FHP.exe
+C:\Users\user\source\repos\FHP\FHP\bin\Debug\FHP.pdb
+C:\Users\user\source\repos\FHP\FHP\obj\Debug\FHP.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\FHP\FHP\obj\Debug\FHP.Form1.resources
+C:\Users\user\source\repos\FHP\FHP\obj\Debug\FHP.Properties.Resources.resources
+C:\Users\user\source\repos\FHP\FHP\obj\Debug\FHP.csproj.GenerateResource.cache
+C:\Users\user\source\repos\FHP\FHP\obj\Debug\FHP.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\FHP\FHP\obj\Debug\FHP.exe
+C:\Users\user\source\repos\FHP\FHP\obj\Debug\FHP.pdb
+C:\Users\user\source\repos\FHP\FHP\obj\Debug\FHP.DataUpdateForm.resources
+C:\Users\user\source\repos\FHP\FHP\obj\Debug\FHP.DataViewForm.resources
