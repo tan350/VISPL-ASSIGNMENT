@@ -1,0 +1,113 @@
+﻿<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Scientific Calculator</title>
+    <link rel="stylesheet" href="ScientificCalculator.css">
+</head>
+<body>
+    <div class="calculator">
+        <div class="leftPart">
+            <div class="navbar">
+                <h1>Scientific Calculator</h1>
+            </div>
+            <div class="container-display1"><label id="display1" ></label></div>
+            <div class="container-display2"><label id="display2">0</label></div>
+            <div class="toggle-container">
+                <button class="toggle-memory-trigno toggle-memory" id="angleButton" onclick="toggleAngleButton()">DEG</button>
+                <button class="toggle-memory-trigno toggle-memory" id="notationButton" onclick="toggleNotation()">F-E</button>
+            </div>
+            <div class="memory-function-container">
+                <button class="toggle-memory-trigno toggle-memory" id="mc" onclick="mc()" disabled>MC</button>
+                <button class="toggle-memory-trigno toggle-memory" id="mr" onclick="mr()" disabled>MR</button>
+                <button class="toggle-memory-trigno toggle-memory" id="mPlus" onclick="mPlus()">M+</button>
+                <button class="toggle-memory-trigno toggle-memory" id="mMinus" onclick="mMinus()">M-</button>
+                <button class="toggle-memory-trigno toggle-memory" id="ms" onclick="ms()">MS</button>
+            </div>
+            <div class="trigno-function-container">
+                <div class="trigoDiv">
+                    <button class="toggle-memory-trigno toggle-memory" id="button_trigo" onclick="trigoButtonsDropdown()"> <span style='font-size:25px;'>&#9727;</span>  Trigonometry &#8964</button>
+                    <button class="toggle-memory-trigno toggle-memory" id="button_function" onclick="functionButtonsDropdown()">&#10765  Function  &#8964 </button>
+                    <div class="moreTrigoButtons" id="moreTrigo">
+                        <button class="toggle-memory-trigno" id="secondbuttonInTrigoFunction" onclick="secondbuttonInTrigoFunction()">2<sup>nd</sup></button>
+                        <button class="toggle-memory-trigno" id="sin" onclick="sinFunction()">sin</button>
+                        <button class="toggle-memory-trigno" id="cos" onclick="cosFunction()">cos</button>
+                        <button class="toggle-memory-trigno" id="tan" onclick="tanFunction()">tan</button>
+                        <button class="toggle-memory-trigno" id="hyp" onclick="hyperBolicButtonInTrigoFunction()">hyp</button>
+                        <button class="toggle-memory-trigno" id="sec" onclick="secFunction()">sec</button>
+                        <button class="toggle-memory-trigno" id="csc" onclick="cscFunction()">csc</button>
+                        <button class="toggle-memory-trigno" id="cot" onclick="cotFunction()">cot</button>
+                    </div>
+                    <div class="moreFunctionsButtons" id="moreFunctions">
+                       
+                        <button class="toggle-memory-trigno" onclick="abs()">|x|</button>
+                        <button class="toggle-memory-trigno" onclick="floor()">&#8970x&#8971</button>
+                        <button class="toggle-memory-trigno" onclick="ceiling()">&#8968x&#8969</button>
+                        <button class="toggle-memory-trigno" onclick="rand()">rand</button>
+                        <button class="toggle-memory-trigno" onclick="dms()">&#8594dms</button>
+                        <button class="toggle-memory-trigno" onclick="deg()">&#8594deg</button>
+                    </div>
+                </div>
+            </div>
+            <div class="grid-button-container">
+                <button class="toggle-memory-trigno" id="secondButton" onclick="secondButtonInMainScreen()">2<sup>nd</sup></button>
+                <button class="toggle-memory-trigno" id="pi" onclick="piValue()" >𝛑</button>
+                <button class="toggle-memory-trigno" id="e" onclick="eValue()">e</button>
+                <button class="toggle-memory-trigno" id="button_C" onclick="clearDisplay()">C</button>
+                <button class="toggle-memory-trigno" id="backspace" onclick=" backspace() "><span>&#x232B;</span></button>
+                <button class="toggle-memory-trigno" id="XSquare" onclick="sqaure()">x<sup>2</sup></button>
+                <button class="toggle-memory-trigno" id="oneByX" onclick="inverse()">1/x</button>
+                <button class="toggle-memory-trigno" id="modX" onclick="abs()">|x|</button>
+                <button class="toggle-memory-trigno" id="exp" onclick="exp()">exp</button>
+                <button class="toggle-memory-trigno" id="mod" onclick="modClick()">mod</button>
+                <button class="toggle-memory-trigno" id="underrootX" onclick="squareroot()"><sup>2</sup>&#8730x</button>
+                <button class="toggle-memory-trigno" id="leftBracket" onclick="leftBracket()">(</button>
+                <button class="toggle-memory-trigno" id="rightBracket" onclick="rightBracket()">)</button>
+                <button class="toggle-memory-trigno" id="factorial" onclick="Factorial()">n!</button>
+                <button class="toggle-memory-trigno" id="divide" onclick="divideClick()"><span>&#247;</span></button>
+                <button class="toggle-memory-trigno" id="xPower" onclick="xtoThePowerY()" >x<sup>y</sup></button>
+                <button class="toggle-memory-trigno" id="button7">7</button>
+                <button class="toggle-memory-trigno" id="button8">8</button>
+                <button class="toggle-memory-trigno" id="button9">9</button>
+                <button class="toggle-memory-trigno" id="multiplication" onclick="multiplicationClick()">x</button>
+                <button class="toggle-memory-trigno" id="tenPower" onclick="tensPower()">10<sup>x</sup></button>
+                <button class="toggle-memory-trigno" id="button4">4</button>
+                <button class="toggle-memory-trigno" id="button5">5</button>
+                <button class="toggle-memory-trigno" id="button6">6</button>
+                <button class="toggle-memory-trigno" id="minus" onclick="minusClick()">-</button>
+                <button class="toggle-memory-trigno" id="log" onclick="log_base_10()">log</button>
+                <button class="toggle-memory-trigno" id="button1">1</button>
+                <button class="toggle-memory-trigno" id="button2">2</button>
+                <button class="toggle-memory-trigno" id="button3">3</button>
+                <button class="toggle-memory-trigno" id="plus" onclick="plusClick()">+</button>
+                <button class="toggle-memory-trigno" id="ln" onclick="natural_log()">ln</button>
+                <button class="toggle-memory-trigno" id="neogate" onclick="negate()">+/-</button>
+                <button class="toggle-memory-trigno" id="button0">0</button>
+                <button class="toggle-memory-trigno" id="decimal" onclick="decimalClick()">.</button>
+                <button class="toggle-memory-trigno" id="Enter" onclick="calculate()">=</button>
+               
+            </div>
+        </div>
+        <div class="rightPart">
+            <div id="rightPartButtons">
+                <button class=" history-memory" id="history" onclick="historyButtonClick()">History</button>
+                <button class=" history-memory" id="memory" onclick="memoryButtonClick()">Memory</button>
+
+            </div>
+            <div id="historyBlock">
+                <h4 id="historyBlockHeading">There's no history yet.</h4>
+                <button id="deleteHistoryButton" onclick="deleteHistoryButton()" >&#x1F5D1;</button>
+            </div>
+            <div id="memoryBlock">
+                <h4>There's nothing saved in your memory.</h4>
+            </div>
+        </div>
+    </div>
+    <script src="ScientificCalculator.js"></script>
+    <script src="ArithmeticCalculator.js"></script>
+    <script src="PowerCalculator.js"></script>
+    <script src="TrignometricFunction.js"></script>
+    <script src="MemoryFunction.js"></script>
+    <script src="VariablesGlobal.js"></script>
+</body>
+</html>
