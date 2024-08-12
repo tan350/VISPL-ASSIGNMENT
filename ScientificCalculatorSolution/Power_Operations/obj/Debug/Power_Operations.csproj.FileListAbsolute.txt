@@ -1,6 +1,0 @@
-C:\Users\user\source\repos\ScientificCalculatorSolution\Power_Operations\bin\Debug\Power_Operations.dll
-C:\Users\user\source\repos\ScientificCalculatorSolution\Power_Operations\bin\Debug\Power_Operations.pdb
-C:\Users\user\source\repos\ScientificCalculatorSolution\Power_Operations\obj\Debug\Power_Operations.csproj.AssemblyReference.cache
-C:\Users\user\source\repos\ScientificCalculatorSolution\Power_Operations\obj\Debug\Power_Operations.csproj.CoreCompileInputs.cache
-C:\Users\user\source\repos\ScientificCalculatorSolution\Power_Operations\obj\Debug\Power_Operations.dll
-C:\Users\user\source\repos\ScientificCalculatorSolution\Power_Operations\obj\Debug\Power_Operations.pdb
